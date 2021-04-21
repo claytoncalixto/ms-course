@@ -1,4 +1,6 @@
-# ms-course project: Microserviços em Java com Spring Boot e Spring Cloud
+# ms-course project: 
+# Microserviços em Java com Spring Boot e Spring Cloud
+
 ## O que aprendi neste curso:
 ### - **Feing:** para requisições de API entre microserviços.
 ### - **Ribbon:** para balanceamento de carga.
@@ -10,7 +12,9 @@
 ### - **Docker:** geração de containers para microserviços e base de dados.
 
 
-# ms-course project: Microservices in Java with Spring Boot and Spring Cloud
+# ms-course project: 
+# Microservices in Java with Spring Boot and Spring Cloud
+
 ## What I learned in this course:
 ### - **Feing:** for API requests between microservices.
 ### - **Ribbon:** for load balancing.
